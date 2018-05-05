@@ -1,4 +1,4 @@
-# Team-Roboto-2018
+# Team Roboto 2018 Code
 
 Team Roboto 447 is a First Robotics Competition (FRC) team that works to build and program a robot in six weeks before going to competitions with many other teams. It you want to learn more about FRC or Team Roboto then see the links below.
 
