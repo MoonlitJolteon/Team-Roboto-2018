@@ -1,0 +1,3 @@
+scrollText Team_447 255 0 0 0 0 100
+slide 255 0 0 0 0 100
+waveFade 5 23 41 20

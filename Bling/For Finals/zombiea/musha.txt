@@ -1,0 +1,4 @@
+anImage mushaa.bmp 36 1
+delay 250
+anImage mushab.bmp 36 1
+delay 250

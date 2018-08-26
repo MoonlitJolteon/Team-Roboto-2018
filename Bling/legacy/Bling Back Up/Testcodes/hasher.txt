@@ -1,0 +1,2 @@
+scrollText #TheLittleRobotThatCould 255 0 0 0 0 100
+slide 255 0 0 0 0 100

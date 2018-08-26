@@ -1,0 +1,2 @@
+waveFade 7 23 41 1       
+scrollText Team_447_thanks_our_sponsers 200 0 0 0 0 100        

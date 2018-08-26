@@ -1,0 +1,1 @@
+anImage Arrow.bmp 5 500

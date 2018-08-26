@@ -1,0 +1,4 @@
+anImage creepaa.bmp 36 1
+delay 250
+anImage creepab.bmp 36 1
+delay 250

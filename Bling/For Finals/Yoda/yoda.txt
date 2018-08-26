@@ -1,0 +1,2 @@
+anImage yodar.bmp 14 100
+anImage yodal.bmp 14 100

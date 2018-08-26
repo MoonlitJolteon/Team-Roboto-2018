@@ -1,0 +1,4 @@
+scrollImage foan.bmp
+delay 1000
+scrollImage foan2.bmp
+delay 1000

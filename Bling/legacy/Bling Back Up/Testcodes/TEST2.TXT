@@ -1,0 +1,4 @@
+scrollImage red447.bmp
+delay 1000
+scrollImage blue447.bmp
+delay 1000

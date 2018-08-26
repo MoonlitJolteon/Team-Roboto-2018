@@ -1,0 +1,2 @@
+scrollText 447...We'll_Pick_You_Up 255 0 0 0 0 100
+anImage wepick.bmp 13 200

@@ -1,0 +1,1 @@
+anImage wwadder.bmp 18 500

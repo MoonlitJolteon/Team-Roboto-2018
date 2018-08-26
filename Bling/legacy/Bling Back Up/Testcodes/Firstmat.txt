@@ -1,0 +1,2 @@
+scrollText Team_447_Presents:_Tajiri 255 0 0 0 0 100
+slide 255 0 0 0 0 100

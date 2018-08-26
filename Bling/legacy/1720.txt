@@ -1,0 +1,5 @@
+scrollText Thanks_to_team_1720_for_helping_with_bling! 0 255 0 0 0 100
+scrollImage pacfood1.bmp
+anImage pacfood.bmp 21 150
+scrollText Did_you_enjoy_the_lunch? 0 255 0 0 0 100
+waveFade 71 43 11 5

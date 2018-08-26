@@ -1,0 +1,1 @@
+anImage pacblank.bmp 42 100

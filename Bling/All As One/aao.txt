@@ -1,0 +1,71 @@
+anImage creepaa.bmp 36 1
+delay 250
+anImage creepab.bmp 36 1
+delay 250
+image face.bmp
+delay 3000
+anImage foan1.bmp 2 3000
+anImage foan.bmp 27 100
+scrollImage marfram1.bmp
+anImage marioan.bmp 17 150
+delay 500
+anImage red4472.bmp 4 150
+anImage pac447.bmp 21 100
+anImage pacfood.bmp 21 100
+anImage pacfoodb.bmp 21 100
+scrollText 447...We'll_Pick_You_Up 255 0 0 0 0 100
+anImage wepick.bmp 13 200
+anImage wwadder.bmp 18 500
+anImage yodar.bmp 14 100
+anImage yodal.bmp 14 100
+anImage yodar2.bmp 14 100
+anImage yodal2.bmp 14 100
+anImage mushaa.bmp 36 1
+delay 250
+anImage mushab.bmp 36 1
+delay 250
+anImage red4472.bmp 4 100
+delay 500
+anImage 1501.bmp 4 100
+delay 500
+anImage 4485.bmp 4 100
+delay 500
+anImage 292.bmp 4 100
+delay 500
+anImage 4926.bmp 4 100
+delay 500
+anImage red4472.bmp 4 100
+delay 500
+anImage pacblank.bmp 42 100
+anImage red4472.bmp 4 150
+delay 500
+scrollText #TheLittleRobotThatCould 255 0 0 0 0 100
+scrollText Thanks_to_team_1720_for_helping_with_bling! 0 255 0 0 0 100
+scrollImage pacfood1.bmp
+anImage pacfood.bmp 21 150
+scrollText Did_you_enjoy_the_lunch? 0 255 0 0 0 100
+waveFade 71 43 11 5
+scrollImage red447.bmp
+delay 1000
+scrollImage 137.bmp
+delay 1000
+scrollImage 2171.bmp
+delay 1000
+redVBlue 
+delay 2000
+slide 150 150 150 0 0 130
+scrollText Go_Blue_Alliance 255 0 0 0 0 130
+slide 0 0 130 150 150 150
+scrollText Do_The_Wave!!! 255 0 0 0 0 100
+doTheWave 1 50 255 0 0 0 0 100
+scrollText Team_447_Presents:_Tajiri 255 0 0 0 0 100
+slide 255 0 0 0 0 100
+slide 150 150 150 170 0 0
+scrollText Go_Red_Alliance 0 0 255 170 0 0
+slide 150 0 0 150 150 150
+scrollImage red447.bmp
+delay 1000
+scrollImage blue447.bmp
+delay 1000
+waveFade 7 23 41 5
+scrollText Team_447_thanks_our_sponsers 200 0 0 0 0 100

@@ -1,0 +1,2 @@
+anImage marioan.bmp 17 150
+slide 255 0 0 0 0 100

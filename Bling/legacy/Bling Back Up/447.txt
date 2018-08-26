@@ -1,0 +1,4 @@
+anImage red4472.bmp 4 150
+delay 500
+anImage pacfood.bmp 21 100
+scrollText #TheLittleRobotThatCould 255 0 0 0 0 100

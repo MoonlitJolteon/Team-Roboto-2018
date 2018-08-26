@@ -1,0 +1,2 @@
+anImage pacfood.bmp 21 100
+anImage pacfoodb.bmp 21 100

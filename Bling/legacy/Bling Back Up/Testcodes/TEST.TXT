@@ -1,0 +1,4 @@
+scrollText Team_447_Presents:_Tajiri 255 0 0 0 0 100
+slide 255 0 0 0 0 100
+scrollText We_thank_Penn_High_School_for_hosting_this_event 255 0 0 0 0 100
+waveFade 7 23 41 5

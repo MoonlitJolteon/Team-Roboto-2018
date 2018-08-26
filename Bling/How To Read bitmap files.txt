@@ -1,0 +1,13 @@
+For file format see https://en.wikipedia.org/wiki/BMP_file_format#Bitmap_file_header
+
+all bytes are 8 bit
+
+read byte 10 (Finds length of header)
+go to the byte of the number above (moves to first byte of image)
+
+first three bytes are the bottom left corner. Then it moves right and then up one line and back to the left
+
+for a single pixel do this
+  read first byte as red
+  read second byte as blue
+  read third byte as green

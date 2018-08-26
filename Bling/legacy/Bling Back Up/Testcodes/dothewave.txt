@@ -1,0 +1,2 @@
+scrollText Do_The_Wave!!! 255 0 0 0 0 100
+doTheWave 255 0 0 0 0 100

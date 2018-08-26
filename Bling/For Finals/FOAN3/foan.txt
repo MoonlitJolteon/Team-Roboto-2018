@@ -1,0 +1,1 @@
+anImage foan.bmp 27 100

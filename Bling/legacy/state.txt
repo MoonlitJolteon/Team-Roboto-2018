@@ -1,0 +1,6 @@
+anImage red4472.bmp 4 100
+delay 500
+anImage 1501.bmp 4 100
+delay 500
+animage 4485.bmp 4 100
+delay 500
