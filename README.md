@@ -13,3 +13,7 @@ This code is our 2018 competition code. (See 2018 FRC game [here](https://youtu.
 ## Autonomous
 
 Another important aspect of the robot code is the autonomous mode. For the first thirty seconds the robot will not be moved by remote control. This means that for that time the robot is driving based of off pre-programmed movements. This game has a new system in which at the beginning of a match a package is sent to the robot telling it information about the game and it is parsed and used in the autonomous mode. We also have used a custom joystick to input which autonomous runs.
+
+## Bling
+
+The programming team, having extra time at meetings while the robot was built, decided to add a LED Panel to the back of the robot. All of the code, scripts, and images we used are here.
