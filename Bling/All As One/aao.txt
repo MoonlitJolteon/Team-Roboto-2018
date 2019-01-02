@@ -69,3 +69,8 @@ scrollImage blue447.bmp
 delay 1000
 waveFade 7 23 41 5
 scrollText Team_447_thanks_our_sponsers 200 0 0 0 0 100
+scrollImage cage.bmp
+delay 3000
+scrollImage cag2.bmp
+scrollText where_teams_begin 255 242 0 0 90 0
+delay 500

@@ -13,7 +13,7 @@ Adafruit_NeoMatrix matrix = Adafruit_NeoMatrix(44, 11, 2, 1, 6,
                             NEO_TILE_TOP + NEO_TILE_LEFT +
                             NEO_TILE_ROWS + NEO_TILE_PROGRESSIVE,
                             NEO_GRB            + NEO_KHZ800);
-int mac = 71;
+int mac = 100;
 String commands[71][16];
 String test;
 void setup() {

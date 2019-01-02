@@ -16,4 +16,4 @@ Another important aspect of the robot code is the autonomous mode. For the first
 
 ## Bling
 
-The programming team, having extra time at meetings while the robot was built, decided to add a LED Panel to the back of the robot. All of the code, scripts, and images we used are here.
+The programming team, having extra time at meetings while the robot was built, decided to add a LED panel to the back of the robot. All of the code, scripts, and images we used are here.

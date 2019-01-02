@@ -1,0 +1,5 @@
+scrollImage cage.bmp
+delay 3000
+scrollImage cag2.bmp
+scrollText where_teams_begin 255 242 0 0 90 0
+delay 500
